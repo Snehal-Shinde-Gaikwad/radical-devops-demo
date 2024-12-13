@@ -1,4 +1,4 @@
 # radical-devops-demo
 This is my first Git repository.
-<hr>
+<br>
 Author - Snehal Shinde
